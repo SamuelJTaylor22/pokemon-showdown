@@ -5936,7 +5936,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Zangoose",
 		types: ["Normal"],
 		baseStats: {hp: 73, atk: 115, def: 60, spa: 60, spd: 60, spe: 90},
-		abilities: {0: "Immunity", H: "Toxic Boost"},
+		abilities: {0: "Poison Heal", H: "Guts"},
 		heightm: 1.3,
 		weightkg: 40.3,
 		color: "White",
